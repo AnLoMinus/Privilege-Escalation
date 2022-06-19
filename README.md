@@ -34,7 +34,7 @@
 ---
 # GiTools
 - [lynis](https://github.com/CISOfy/lynis)
+- [Privilege-Escalation](https://github.com/akiraaisha/Privilege-Escalation)
 
 # Other Sources
 - https://hacktoday.io/tag/privilege-escalation
-- https://github.com/akiraaisha/Privilege-Escalation
