@@ -35,6 +35,7 @@
 # GiTools
 - [lynis](https://github.com/CISOfy/lynis)
 - [Privilege-Escalation](https://github.com/akiraaisha/Privilege-Escalation)
+  > This contains common local exploits and enumeration scripts
 
 # Other Sources
 - https://hacktoday.io/tag/privilege-escalation
