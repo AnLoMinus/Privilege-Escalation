@@ -32,4 +32,6 @@
 </div>
 
 ---
-
+# Other Sources
+- https://hacktoday.io/tag/privilege-escalation
+- https://github.com/akiraaisha/Privilege-Escalation
