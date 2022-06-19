@@ -33,6 +33,26 @@
 
 ---
 
+# Privilege Escalation Vectors
+- [ ] Following information are considered as critical Information of Linux System:
+  - [ ] The version of the operating system
+  - [ ] Any Vulnerable package installed or running
+  - [ ] Files and Folders with Full Control or Modify Access
+  - [ ] Mapped Drives
+  - [ ] Potentially Interesting Files
+  - [ ] Network Information (interfaces, arp)
+  - [ ] Firewall Status and Rules
+  - [ ] Running Processes
+  - [ ] Stored Credentials
+  - [ ] Sudo Rights
+  - [ ] Path Variables
+  - [ ] Docker
+  - [ ] Buffer Overflow conditions
+  - [ ] Cronjobs
+  - [ ] Capabilities
+
+---
+
 # GiTools
 - [lynis](https://github.com/CISOfy/lynis)
   > Lynis - Security auditing and hardening tool, for UNIX-based systems.
@@ -42,3 +62,10 @@
 
 # Other Sources
 - https://hacktoday.io/tag/privilege-escalation
+- [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
+- [LinEnum](https://github.com/rebootuser/LinEnum)
+- [Bashark 2.0](https://github.com/redcode-labs/Bashark)
+- [LES: Linux Exploit Suggester](https://github.com/mzet-/linux-exploit-suggester)
+- [Linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker)
+- [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
+- []()
