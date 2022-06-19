@@ -32,8 +32,11 @@
 </div>
 
 ---
+
 # GiTools
 - [lynis](https://github.com/CISOfy/lynis)
+  > Lynis - Security auditing and hardening tool, for UNIX-based systems.
+
 - [Privilege-Escalation](https://github.com/akiraaisha/Privilege-Escalation)
   > This contains common local exploits and enumeration scripts
 
