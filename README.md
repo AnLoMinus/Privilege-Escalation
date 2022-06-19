@@ -32,6 +32,9 @@
 </div>
 
 ---
+# GiTools
+- [lynis](https://github.com/CISOfy/lynis)
+
 # Other Sources
 - https://hacktoday.io/tag/privilege-escalation
 - https://github.com/akiraaisha/Privilege-Escalation
