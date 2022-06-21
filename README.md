@@ -69,3 +69,11 @@
 - [Linuxprivchecker](https://github.com/sleventyeleven/linuxprivchecker)
 - [Linux Smart Enumeration](https://github.com/diego-treitos/linux-smart-enumeration)
 - []()
+
+---
+
+<h2 align="center">
+  
+  **[`^        Back to TOP        ^`](#)**
+  
+</h2>
